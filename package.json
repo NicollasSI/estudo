@@ -1,0 +1,22 @@
+{
+  "name": "estudo",
+  "version": "1.0.0",
+  "description": "**Sistema de estudo CRUD**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicollasSI/estudo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicollasSI/estudo/issues"
+  },
+  "homepage": "https://github.com/NicollasSI/estudo#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
